@@ -3,7 +3,8 @@ body{
     background-color: #fafafa;
     font-family: sans-serif;
     font-size: 1em;
-    width: 100vw;
+    width: 100%;
+    
 }
 h1{
     margin-bottom: 10px;
@@ -20,13 +21,9 @@ li{
 h3{
     padding-left: 10px;
 }
+p{
+    padding-left: 5px;
+}
 h2{
     padding-left: 10px;
 }
-/* footer{
-    display: flex;
-    align-items: stretch;
-    background-color: gainsboro;
-    border-top: solid 20px gainsboro;
-    color: #fafafa;
-} */
