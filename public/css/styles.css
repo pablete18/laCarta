@@ -1,0 +1,57 @@
+.main__menu{
+    
+
+}
+.header__1{
+    text-align: center;
+    width: 100vw;
+}
+#Carta{
+    border-bottom: solid gainsboro;
+}
+.link__carta{
+    width: 100vw;
+    border-bottom: solid gainsboro;
+
+}
+
+
+.lista{
+    align-items: stretch;
+}
+
+
+.foto__entradas{
+    border: solid gainsboro;
+    width: 100vw;
+    height: 200px;
+  }
+.section__menu{
+    width: 100vw;
+}
+.footer{
+    width: 100vw;
+    background-color: gainsboro;
+    border-top: solid 20px gainsboro;
+    color: #fafafa;
+}
+.section__footer ul{
+    padding-left: 0px;
+}
+/* .main__menu{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+ */
+/* .article__entradas{
+    border-left: solid gainsboro;
+    padding-left: 100px; */
+
+/* .section__footer{
+    display: flex;
+    margin-left: 450px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: stretch;
+}  */
